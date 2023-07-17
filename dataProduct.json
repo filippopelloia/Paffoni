@@ -1,0 +1,185 @@
+[
+    {
+      "image": "IMG/075.png",
+      "name": "JO 075",
+      "description": "Miscelatore lavabo completo di: • aeratore M16,5x1 • set 2 flessibili inox 3/8”G",
+      "category": "mono",
+      "finiture": ["Cromo", "Nero Opaco"]
+    },
+    {
+      "image": "IMG/085.png",
+      "name": "JO 085",
+      "description": "Miscelatore lavabo prolungato completo di: • aeratore M16,5x1 • set 2 flessibili inox 3/8”G",
+      "category": "mono",
+      "finiture": ["Cromo"]
+    },
+    {
+      "image": "IMG/052.png",
+      "name": "JO 052",
+      "description": "Batteria lavabo 3 fori con bocca fissa completa di: • aeratore M16x1 • set 2 flessibili inox 1/2”G",
+      "category": "traditional",
+      "finiture": ["Cromo", "Nero Opaco"]
+    },
+    {
+      "image": "IMG/006...70.png",
+      "name": "JO 006..70",
+      "description": "Batteria lavabo 3 fori con bocca fissa completa di: • aeratore M16x1 • set 2 flessibili inox 1/2”G",
+      "category": "mono",
+      "finiture": ["Cromo", "Nero Opaco"]
+    },
+    {
+      "image": "IMG/104...70.png",
+      "name": "JO 104..70",
+      "description": "Miscelatore incasso lavabo completo di: • piastre in ottone Ø70mm • attacchi 1/2”G",
+      "category": "mono",
+      "finiture": ["Cromo", "Nero Opaco"]
+    },
+    {
+      "image": "IMG/104.png",
+      "name": "JO 104",
+      "description": "Miscelatore incasso lavabo completo di: • piastra in acciaio inox 250x100mm • attacchi 1/2”G",
+      "category": "mono",
+      "finiture": ["Cromo", "Nero Opaco"]
+    },
+    {
+      "image": "IMG/003.png",
+      "name": "JO 003",
+      "description": "Batteria incasso lavabo 3 fori completo di: • piastre per rubinetti - Ø50 mm • piastra per bocca - Ø70 mm • attacchi 1/2”G",
+      "category": "traditional",
+      "finiture": ["Cromo", "Nero Opaco"]
+    },
+    {
+      "image": "IMG/031.png",
+      "name": "JO 031",
+      "description": "Miscelatore lavabo e pavimento completo di: • bocca con aeratore M24x1 • set 2 flessibili inox - M15x1/ L.1080mm",
+      "category": "mono",
+      "finiture": ["Cromo", "Nero Opaco"]
+    },
+    {
+      "image": "IMG/135.jpg",
+      "name": "JO 135",
+      "description": "Miscelatore bidet completo di: • con snodo e aeratore M16x1 • set 2 flessibili inox 3/8”G",
+      "category": "mono",
+      "finiture": ["Cromo", "Nero Opaco"]
+    },
+    {
+      "image": "IMG/119.jpg",
+      "name": "JO 119",
+      "description": "Batteria bidet con canna fissa completa di: • aeratore M16x1 • set 2 flessibili inox 1/2”G",
+      "category": "traditional",
+      "finiture": ["Cromo", "Nero Opaco"]
+    },
+    {
+      "image": "IMG/168d.jpg",
+      "name": "JO 168D",
+      "description": "Miscelatore doccia completo di: • set 2 eccentrici 1/2”x3/4”G e rosoni",
+      "category": "mono",
+      "finiture": ["Cromo", "Nero Opaco"]
+    },
+    {
+      "image": "IMG/168r.jpg",
+      "name": "JO 168R",
+      "description": "Miscelatore doccia completo di: • set 2 eccentrici 1/2”x3/4”G e rosoni",
+      "category": "mono",
+      "finiture": ["Cromo"]
+    },
+    {
+      "image": "IMG/pbox001.jpg",
+      "name": "PBOX 001",
+      "description": "Set incasso universale per miscelatori doccia completo di: • corpo incasso • box",
+      "category": "mono",
+      "finiture": []
+    },
+    {
+      "image": "IMG/box010.jpg",
+      "name": "JO BOX010",
+      "description": "Set esterno miscelatore incasso doccia (1 uscita) completo di: • corpo miscelatore • piastra in ABS Ø173mm e leva",
+      "category": "mono",
+      "finiture": ["Cromo"]
+    },
+    {
+      "image": "IMG/box015.jpg",
+      "name": "JO BOX015",
+      "description": "Set esterno miscelatore incasso doccia (2 uscite) completo di: • corpo miscelatore • piastra in ABS Ø173mm e leva",
+      "category": "mono",
+      "finiture": ["Cromo", "Nero Opaco"]
+    },
+    {
+      "image": "IMG/010.jpg",
+      "name": "JO 010",
+      "description": "Miscelatore incasso doccia (1 uscita) completo di: • piastra • attacchi 1/2”G",
+      "category": "mono",
+      "finiture": ["Cromo", "Nero Opaco"]
+    },
+    {
+      "image": "IMG/015.jpg",
+      "name": "JO 015",
+      "description": "Miscelatore incasso doccia (2 uscite) completo di: • piastra in metallo Ø200mm • attacchi calda/fredda e superiore 1/2”G - attacco inferiore 3/4”G",
+      "category": "mono",
+      "finiture": ["Cromo", "Nero Opaco"]
+    },
+    {
+      "image": "IMG/018.jpg",
+      "name": "JO 018",
+      "description": "Miscelatore incasso doccia (2 uscite) completo di: • piastra in metallo Ø200mm • attacchi 1/2”G",
+      "category": "mono",
+      "finiture": ["Cromo", "Nero Opaco"]
+    },
+    {
+      "image": "IMG/019.jpg",
+      "name": "JO 019",
+      "description": "Miscelatore incasso doccia (3 uscite) completo di: • piastra in metallo Ø200mm • attacchi 1/2”G",
+      "category": "mono",
+      "finiture": ["Cromo", "Nero Opaco"]
+    },
+    {
+      "image": "IMG/023.jpg",
+      "name": "JO 023",
+      "description": "Miscelatore vasca/doccia con deviatore completo di: • aeratore M28x1 • set 2 eccentrici 1/2”x3/4”G e rosoni",
+      "category": "mono",
+      "finiture": ["Cromo", "Nero Opaco"]
+    },
+    {
+      "image": "IMG/001.jpg",
+      "name": "JO 001",
+      "description": "Miscelatore incasso vasca/doccia (2 uscite) completo di: • piastra in acciao inox 350x120mm • bocca con aeratore M18.5x1 - l. 202mm • doccia Master in metallo e flessibile • attacchi 1/2”G",
+      "category": "mono",
+      "finiture": ["Cromo", "Nero Opaco"]
+    },
+    {
+      "image": "IMG/040l.jpg",
+      "name": "JO 040L",
+      "description": "Miscelatore bordo vasca con deviatore completo di: • set 5 flex inox per miscelatore • doccia e flessibile con piombo",
+      "category": "mono",
+      "finiture": ["Cromo"]
+    },
+    {
+      "image": "IMG/047.jpg",
+      "name": "JO 047",
+      "description": "Miscelatore bordo vasca con “portata maggiorata” completo di: • set 5 flex inox per miscelatore • doccia e flessibile con piombo",
+      "category": "mono",
+      "finiture": ["Cromo", "Nero Opaco"]
+    },
+    {
+      "image": "IMG/044.jpg",
+      "name": "JO 044",
+      "description": "Batteria bordo vasca con deviatore completa di: • doccia estraibile • set 4 flex inox per miscelatore • flessibile con piombo per doccia",
+      "category": "traditional",
+      "finiture": ["Cromo", "Nero Opaco"]
+    },
+    {
+      "image": "IMG/032.jpg",
+      "name": "JO 032",
+      "description": "Miscelatore vasca/doccia a pavimento completo di: • bocca con aeratore M24x1 • doccia Master • flessibile PVC argento - 1/2”x1/2” / L.1500mm • set 2 flessibili inox - M15x1/L.650 mm",
+      "category": "mono",
+      "finiture": ["Cromo", "Nero Opaco"]
+    },
+    {
+      "image": "IMG/004.jpg",
+      "name": "JO 004",
+      "description": "Rubinetto incasso completo di: • piastra Ø50 mm • attacchi 1/2”G",
+      "category": "mono",
+      "finiture": ["Cromo", "Nero Opaco"]
+    }
+  ]
+  

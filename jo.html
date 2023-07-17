@@ -1,0 +1,334 @@
+<!doctype html>
+<html lang="it">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Paffoni</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+
+    <nav class="navbar navbar-expand-lg scroll-menu">
+        <div class="container-fluid">
+
+          <a class="navbar-brand" href="index.html">
+            <img class="navbar-brand-black" src="IMG/logoSVG.svg">
+          </a>
+
+          <div class="d-flex justify-content-center align-items-center ms-auto">
+
+            <div class="second-right-section">
+              <div class="right-side d-flex justify-content-center align-items-center me-sm-4 me-3">
+                  <div id="search" class="mx-sm-2 mx-1">
+                    <i class="fas fa-search search-black"></i>
+                  </div>
+                  <li class="mx-sm-2 mx-1 search-black language">IT</li>
+                  <li class="mx-sm-2 mx-1 search-black language">ENG</li>
+              </div>
+            </div>
+
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+          </div>
+
+          <div class="collapse navbar-collapse collapse-menu" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0 mx-auto">
+
+              <!-- DROPDOWN -->
+              <li class="nav-item mx-xl-2 mx-lg-1">
+                <a class="nav-link nav-link-black" href="#" id="navbarDropdown" role="button" aria-expanded="false">
+                  PRODOTTI
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <li><a class="dropdown-item mb-1" href="bagno.html">BAGNO</a></li>
+                  <li><a class="dropdown-item my-1" href="#">CUCINA</a></li>
+                  <li><a class="dropdown-item my-1" href="#">DOCCIA</a></li>
+                  <li><a class="dropdown-item my-1" href="#">ACCESSORI</a></li>
+                  <li><a class="dropdown-item mt-1" href="#">TUTTI I PRODOTTI</a></li>
+                </ul>
+              </li>
+              <!-- END DROPDOWN -->
+
+              <li class="nav-item mx-xl-2 mx-lg-1">
+                <a class="nav-link nav-link-black" href="#">AZIENDA</a>
+              </li>
+              <li class="nav-item mx-xl-2 mx-lg-1">
+                <a class="nav-link nav-link-black" href="#">TECNOLOGIE</a>
+              </li>
+              <li class="nav-item mx-xl-2 mx-lg-1">
+                <a class="nav-link nav-link-black" href="#">PROGETTI</a>
+              </li>
+              <li class="nav-item mx-xl-2 mx-lg-1">
+                <a class="nav-link nav-link-black" href="#">DOWNLOAD</a>
+              </li>
+              <li class="nav-item mx-xl-2 mx-lg-1">
+                <a class="nav-link nav-link-black" href="#">INFO</a>
+              </li>
+              <li class="nav-item mx-xl-2 mx-lg-1">
+                <a class="nav-link nav-link-black" href="#">CONTATTI</a>
+              </li>
+            </ul>
+          </div>
+
+          <div class="first-right-section">
+            <div class="right-side d-flex justify-content-center align-items-center">
+                <div id="search" class="mx-2">
+                  <i class="fas fa-search"></i>
+                </div>
+                <li class="mx-2 nav-link-black language">IT</li>
+                <li class="mx-2 nav-link-black language">ENG</li>
+            </div>
+          </div>
+
+
+        </div>
+    </nav>
+
+    <main>
+
+      <div class="first-section-product col-lg-12">
+            <div class="container-fluid mx-auto">
+                <div class="row">
+                    <div class="info col-lg-2">
+                        <h3 class="mt-2 text-end">JO</h3>
+                        <h6 class="mt-5 mb-2 text-end">ROBUSTEZZA</h6>
+                        <p class="text-end">Le sue superfici tonde e la sua geometricità ne generano una robustezza eclettica.
+
+                            La linea viene impreziosita dalla brillantezza e dalla sensazione tattile delle texture presenti sul comando.
+                            
+                            Questa collezione è talmente completa da poter soddisfare ogni tipologia di applicazione, dalle più moderne alle più tradizionali.</p>
+                    </div>
+                </div>
+              </div>
+            </div>
+
+              <h3 class="mt-4 mb-5 text-center">Prodotti Collezione jo</h3>
+
+              <div class="collection col-lg-12 mb-5 mx-auto">
+                    <div class="row">
+
+                        <!-- SEARCH SECTION -->
+                        <div class="search-section px-0">
+                            <form id="form-search" class="d-flex" role="search">
+                                <input class="form-control me-2" type="text" 
+                                id="name-filter" placeholder="Cerca per codice" aria-label="Search">
+                                <button class="btn" type="submit"><i class="fas fa-search"></i></button>
+                            </form>
+
+                            <!-- ACCORDIONS -->
+                            <div class="accordion accordion-collapse mt-3" id="accordionFlushExample">
+                                <div class="accordion-item">
+                                  <h3 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+                                     TIPOLOGIA PRODOTTO
+                                    </button>
+                                  </h3>
+                                  <div id="flush-collapseOne" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+                                    <div class="accordion-body">
+
+                                        <div class="form-check">
+                                            <input class="form-check-input" type="checkbox" value="corpo incasso a parete" id="flexCheckDefault">
+                                            <label class="form-check-label" for="flexCheckDefault">
+                                              Corpo incasso a parete
+                                            </label>
+                                        </div>
+                                        
+                                        <div class="form-check">
+                                            <input class="form-check-input" type="checkbox" value="accessori vari" id="flexCheckDefault">
+                                            <label class="form-check-label" for="flexCheckDefault">
+                                              Accessori - Vari
+                                            </label>
+                                        </div>
+
+                                        <div class="form-check">
+                                            <input class="form-check-input" type="checkbox" value="miscelatori vasca incasso" id="flexCheckDefault">
+                                            <label class="form-check-label" for="flexCheckDefault">
+                                              Miscelatore vasca incasso
+                                            </label>
+                                        </div>
+
+                                        <div class="form-check">
+                                            <input class="form-check-input" type="checkbox" value="miscelatore lavabo incasso" id="flexCheckDefault">
+                                            <label class="form-check-label" for="flexCheckDefault">
+                                              Miscelatore lavabo incasso
+                                            </label>
+                                        </div>
+
+                                        <div class="form-check">
+                                            <input class="form-check-input" type="checkbox" value="miscelatore vasca esterno" id="flexCheckDefault">
+                                            <label class="form-check-label" for="flexCheckDefault">
+                                              Miscelatore vasca esterno
+                                            </label>
+                                        </div>
+
+                                        
+                                        <div class="form-check">
+                                            <input class="form-check-input" type="checkbox" value="miscelatore bordo vasca" id="flexCheckDefault">
+                                            <label class="form-check-label" for="flexCheckDefault">
+                                              Miscelatore bordo vasca
+                                            </label>
+                                        </div>
+
+                                                                    
+                                        <div class="form-check">
+                                            <input class="form-check-input" type="checkbox" value="miscelatore doccia esterno" id="flexCheckDefault">
+                                            <label class="form-check-label" for="flexCheckDefault">
+                                              Miscelatore doccia esterno
+                                            </label>
+                                        </div>
+
+                                        <div class="form-check">
+                                            <input class="form-check-input" type="checkbox" value="miscelatore lavabo" id="flexCheckDefault">
+                                            <label class="form-check-label" for="flexCheckDefault">
+                                              Miscelatore Lavabo
+                                            </label>
+                                        </div>
+
+                                        
+                                        <div class="form-check">
+                                            <input class="form-check-input" type="checkbox" value="miscelatore bidet" id="flexCheckDefault">
+                                            <label class="form-check-label" for="flexCheckDefault">
+                                              Miscelatore Bidet
+                                            </label>
+                                        </div>
+
+                                        <div class="form-check">
+                                            <input class="form-check-input" type="checkbox" value="miscelatore doccia incasso" id="flexCheckDefault">
+                                            <label class="form-check-label" for="flexCheckDefault">
+                                              Miscelatore doccia incasso
+                                            </label>
+                                        </div>
+
+                                        <div class="form-check">
+                                            <input class="form-check-input" type="checkbox" value="miscelatore lavabo e pavimento" id="flexCheckDefault">
+                                            <label class="form-check-label" for="flexCheckDefault">
+                                              Miscelatore lavabo e pavimento
+                                            </label>
+                                        </div>
+
+                                        <div class="form-check">
+                                            <input class="form-check-input" type="checkbox" value="miscelatore prolungato" id="flexCheckDefault">
+                                            <label class="form-check-label" for="flexCheckDefault">
+                                              Miscelatore prolungato
+                                            </label>
+                                        </div>
+
+                                        <div class="form-check">
+                                            <input class="form-check-input" type="checkbox" value="lavabo 3 fori" id="flexCheckDefault">
+                                            <label class="form-check-label" for="flexCheckDefault">
+                                              Lavabo 3 fori
+                                            </label>
+                                        </div>
+
+                                        <div class="form-check">
+                                            <input class="form-check-input" type="checkbox" value="lavabo incasso 3 fori" id="flexCheckDefault">
+                                            <label class="form-check-label" for="flexCheckDefault">
+                                              Lavabo incasso 3 fori
+                                            </label>
+                                        </div>
+
+                                        
+                                        <div class="form-check">
+                                            <input class="form-check-input" type="checkbox" value="bidet 3 fori" id="flexCheckDefault">
+                                            <label class="form-check-label" for="flexCheckDefault">
+                                              Bidet 3 fori
+                                            </label>
+                                        </div>
+
+                                        <div class="form-check">
+                                            <input class="form-check-input" type="checkbox" value="miscelatore vasca a pavimento" id="flexCheckDefault">
+                                            <label class="form-check-label" for="flexCheckDefault">
+                                              Miscelatore vasca a pavimento
+                                            </label>
+                                        </div>
+
+                                    </div>
+                                  </div>
+                                </div>
+                                <div class="accordion-item">
+                                  <h3 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
+                                      CATEGORIE
+                                    </button>
+                                  </h3>
+                                  <div id="flush-collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+                                    <div class="accordion-body">
+
+                                        <div class="form-check">
+                                            <input class="form-check-input" type="checkbox" value="mono" id="flexCheckDefault">
+                                            <label class="form-check-label" for="flexCheckDefault">
+                                              Monocomandi
+                                            </label>
+                                        </div>
+
+                                        <div class="form-check">
+                                            <input class="form-check-input" type="checkbox" value="traditional" id="flexCheckDefault">
+                                            <label class="form-check-label" for="flexCheckDefault">
+                                              Tradizionali
+                                            </label>
+                                        </div>
+
+                                    </div>
+                                  </div>
+                                </div>
+                                <div class="accordion-item">
+                                  <h3 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
+                                      FINITURE
+                                    </button>
+                                  </h3>
+                                  <div id="flush-collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+                                    <div class="accordion-body">
+
+                                        <div class="form-check">
+                                            <input class="form-check-input" type="checkbox" value="Cromo" id="flexCheckDefault1">
+                                            <label class="form-check-label" for="flexCheckDefault">
+                                              Cromo
+                                            </label>
+                                        </div>
+
+                                        <div class="form-check">
+                                            <input class="form-check-input" type="checkbox" value="Nero Opaco" id="flexCheckDefault2">
+                                            <label class="form-check-label" for="flexCheckDefault">
+                                              Nero Opaco
+                                            </label>
+                                        </div>
+
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                        </div>
+
+                        <!-- FINE ACCORDIONS -->
+
+
+                        <!-- RESULTS SECTION -->
+
+                        <div class="product-collection col-lg ps-0">
+                            <div class="d-flex flex-wrap">
+
+
+                              <!-- MOSTRO DATI DA dataProduct.JSON -->
+
+      
+                            </div>
+                        </div>
+                    </div>
+                </div>
+        </div>
+
+    </main>
+
+    <footer></footer>
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
+    <script src="JS/main.js"></script>
+    <script src="dataProduct.json" type="module"></script>
+
+  </body>
+</html>
